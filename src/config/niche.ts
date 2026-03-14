@@ -81,7 +81,7 @@ export const bachelorConfig: NicheConfig = {
     en: 'Bachelor & Bachelorette',
     fr: 'Enterrement de Vie de Garçon/Fille',
   },
-  destinations: ['marrakech', 'marbella', 'faro'],
+  destinations: ['marrakech', 'agadir'],
   features: {
     groupBooking: true,
     votingSystem: true,
